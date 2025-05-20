@@ -58,6 +58,6 @@ Al ejecutar el programa, se muestra un menú con las siguientes opciones:
 
 ## 👨‍💻 Autor
 
-Desarrollado por Deissy Jovita Hernandez 
-PROTECSA - UNAM
-Proyecto final de programación estructurada en lenguaje C.
+* Desarrollado por Deissy Jovita Hernandez 
+* PROTECSA - UNAM
+* Proyecto final de programación estructurada en lenguaje C.
